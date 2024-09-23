@@ -12,3 +12,5 @@ This project showcases my journey in mastering file handling in C, enabling data
 - **Sorting & Validation:** Automatically sorts contacts and validates entries for duplicates.
 
 Feel free to explore the code, provide feedback, or contribute to its development. Let's connect and learn together!
+
+connect with me : sahilshaikh.nbnssoe@gmail.com
