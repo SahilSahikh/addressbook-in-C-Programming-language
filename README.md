@@ -48,7 +48,7 @@ addressBook/
 To clone this project, run:
 
 ```bash
-git clone <https://github.com/SahilSahikh/addressbook-in-C-Programming-language/addressBook.git>
+git clone <https://github.com/SahilSahikh/addressbook-in-C-Programming-language.git>
 
 ```
 
